@@ -8,6 +8,9 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "cryptocompare": "^1.0.0",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.3.0",
     "vue": "^2.6.6"
   },
   "devDependencies": {
